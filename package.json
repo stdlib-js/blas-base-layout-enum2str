@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-base-layout-enum2str",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Return the BLAS memory layout string associated with a BLAS memory layout enumeration constant.",
   "license": "Apache-2.0",
   "author": {
