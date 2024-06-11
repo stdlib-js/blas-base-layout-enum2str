@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import enum2str from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-enum2str@deno/mod.js';
+import enum2str from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-enum2str@v0.0.1-deno/mod.js';
 ```
 
 #### enum2str( layout )
@@ -98,7 +98,7 @@ var v = enum2str( -999999999 );
 
 ```javascript
 import str2enum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-str2enum@deno/mod.js';
-import enum2str from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-enum2str@deno/mod.js';
+import enum2str from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-enum2str@v0.0.1-deno/mod.js';
 
 var str = enum2str( str2enum( 'row-major' ) );
 // returns 'row-major'
